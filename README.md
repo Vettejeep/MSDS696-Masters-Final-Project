@@ -5,7 +5,7 @@
 ### Work in progress, due May 5th, 2019
 ---
 ### Final Project for a Masters Degree in Data Science at Regis University, Denver, CO  
-[Regis University](https://www.regis.edu)
+[Regis University](https://www.regis.edu)  
 ---  
 ### Placing at End of Project Modeling - Top 1% Score!  
 ![Kaggle_Placing](img/Kaggle_Placing_28Apr.PNG)  
