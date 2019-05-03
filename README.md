@@ -12,7 +12,7 @@
 ### Kaggle Placing at End of Modeling for the Class Project - Top 1% Score!  
 ![Kaggle_Placing](img/Kaggle_Placing_28Apr.PNG)  
 
-##### Note: Placing as of April 28th - competition is ongoing so placing will change.
+##### Note: Placing as of April 28th - competition is ongoing so placing will change and probably go down.
 ---
 ### Kevin Maher    
 ### Vettejeep365@gmail.com    
