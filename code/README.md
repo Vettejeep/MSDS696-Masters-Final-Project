@@ -1,1 +1,1 @@
-### Scripts are here, most code is also in the Jupyter notebooks
+### Scripts are here, code is also in the Jupyter notebooks
