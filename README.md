@@ -7,6 +7,7 @@
 ### Please see the Jupyter notebooks for Exploratory Data Analysis and the Modeling
 ### [Exploratory Data Analysis](https://github.com/Vettejeep/MSDS696-Masters-Final-Project/blob/master/earthquake_eda.ipynb)
 ### [Machine Learning Modeling](https://github.com/Vettejeep/MSDS696-Masters-Final-Project/blob/master/earthquake_model.ipynb)
+### [YouTube Video Presentation Link](https://youtu.be/HR0ppRIkq1o)
 ---
 ### Kaggle Placing at End of Modeling for the Class Project - Top 1% Score!  
 ![Kaggle_Placing](img/Kaggle_Placing_28Apr.PNG)  
