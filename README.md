@@ -12,7 +12,7 @@
 ### [Follow the conversation on Kaggle](https://www.kaggle.com/vettejeep/masters-final-project-model-lb-1-392)
 ---
 ### Kaggle Placing at End of Modeling for the Class Project - Top 1% Score at time of project end!
-#### Note that the competition continued after my degree project was finished and competitors had access to my work due to its being published on Kaggle.  Still, the project was awarded a top 6% placing and a Kaggle Bronze medal. 
+#### Note that the competition continued after my degree project was finished and competitors had access to my work due to it being published on Kaggle.  Still, the project was awarded a top 6% placing and a Kaggle Bronze medal. 
 ![Kaggle_Placing](img/Kaggle_Placing_28Apr.PNG)  
 
 ##### Note: Placing as of April 28th - competition is ongoing so placing will change and probably go down. And, since university rules require publishing on the web, any value of this work is fully available to competitors on Kaggle.
